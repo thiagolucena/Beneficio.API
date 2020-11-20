@@ -1,0 +1,14 @@
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Service\bin\Debug\netcoreapp3.1\Beneficio.Service.deps.json
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Service\bin\Debug\netcoreapp3.1\Beneficio.Service.dll
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Service\bin\Debug\netcoreapp3.1\Beneficio.Service.pdb
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Service\bin\Debug\netcoreapp3.1\Beneficio.Domain.dll
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Service\bin\Debug\netcoreapp3.1\Beneficio.Infra.Data.dll
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Service\bin\Debug\netcoreapp3.1\Beneficio.Infra.Data.pdb
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Service\bin\Debug\netcoreapp3.1\Beneficio.Domain.pdb
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Service\obj\Debug\netcoreapp3.1\Beneficio.Service.csprojAssemblyReference.cache
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Service\obj\Debug\netcoreapp3.1\Beneficio.Service.AssemblyInfoInputs.cache
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Service\obj\Debug\netcoreapp3.1\Beneficio.Service.AssemblyInfo.cs
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Service\obj\Debug\netcoreapp3.1\Beneficio.Service.csproj.CoreCompileInputs.cache
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Service\obj\Debug\netcoreapp3.1\Beneficio.Service.csproj.CopyComplete
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Service\obj\Debug\netcoreapp3.1\Beneficio.Service.dll
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Service\obj\Debug\netcoreapp3.1\Beneficio.Service.pdb

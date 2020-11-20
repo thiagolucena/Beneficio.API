@@ -1,0 +1,9 @@
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Domain\bin\Debug\netcoreapp3.1\Beneficio.Domain.deps.json
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Domain\bin\Debug\netcoreapp3.1\Beneficio.Domain.dll
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Domain\bin\Debug\netcoreapp3.1\Beneficio.Domain.pdb
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Domain\obj\Debug\netcoreapp3.1\Beneficio.Domain.csprojAssemblyReference.cache
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Domain\obj\Debug\netcoreapp3.1\Beneficio.Domain.AssemblyInfoInputs.cache
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Domain\obj\Debug\netcoreapp3.1\Beneficio.Domain.AssemblyInfo.cs
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Domain\obj\Debug\netcoreapp3.1\Beneficio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Domain\obj\Debug\netcoreapp3.1\Beneficio.Domain.dll
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Domain\obj\Debug\netcoreapp3.1\Beneficio.Domain.pdb

@@ -1,0 +1,16 @@
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Beneficio.Infra.CrossCutting.deps.json
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Beneficio.Infra.CrossCutting.dll
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Beneficio.Infra.CrossCutting.pdb
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Beneficio.Domain.dll
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Beneficio.Infra.Data.dll
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Beneficio.Service.dll
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Beneficio.Domain.pdb
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Beneficio.Service.pdb
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Beneficio.Infra.Data.pdb
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Beneficio.Infra.CrossCutting.csprojAssemblyReference.cache
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Beneficio.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Beneficio.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Beneficio.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Beneficio.Infra.CrossCutting.csproj.CopyComplete
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Beneficio.Infra.CrossCutting.dll
+C:\Users\thiago.lsantos\Desktop\Docs\Fontes Github\Beneficio.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Beneficio.Infra.CrossCutting.pdb
