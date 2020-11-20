@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>250d8f0f-15c1-48b6-9a5d-eeeecf547fc4</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -28,6 +29,12 @@
 
   <ItemGroup>
     <Folder Include="Resources\PDF\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Resources\PDF\doc1.pdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 
